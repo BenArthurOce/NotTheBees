@@ -1,0 +1,6 @@
+Things to do 24/06/2022:
+
+Determine Winner when game has 1 player left
+Replace Fruit display with better displays (Currently 'AA', 'BB'... etc)
+Add some kind of AI, using the logic of the "poison number" game
+Impliment a input restriction that only allows for 1-2-3 fruits
