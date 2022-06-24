@@ -4,3 +4,8 @@ Determine Winner when game has 1 player left
 Replace Fruit display with better displays (Currently 'AA', 'BB'... etc)
 Add some kind of AI, using the logic of the "poison number" game
 Impliment a input restriction that only allows for 1-2-3 fruits
+
+
+Possible that Fruit(), Behive() and Empty() could be combined as one class?
+Should Converyor be its own class?
+Should the game display be its own class?
