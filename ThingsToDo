@@ -4,6 +4,12 @@ Determine Winner when game has 1 player left
 Replace Fruit display with better displays (Currently 'AA', 'BB'... etc)
 Add some kind of AI, using the logic of the "poison number" game
 Impliment a input restriction that only allows for 1-2-3 fruits
+Beehives are currently put into slot 10, 20, 30 and 40. 
+  - We only need 3 Beehives.
+  - Should I randomize where the Beehives go?
+      Also Considering:
+        - Only after a certain number of fruits
+        - Not having the beehives too close togeathor
 
 
 Possible that Fruit(), Behive() and Empty() could be combined as one class?
