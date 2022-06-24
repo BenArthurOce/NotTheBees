@@ -1,0 +1,9 @@
+Based off Mario Party 2: Honeycomb Havoc
+https://www.youtube.com/watch?v=gyRVdmhADGM
+
+Players queue up in a line. They determine how many fruits they want. 
+These fruits are displayed randomly as 'AA', 'BB', 'CC' etc
+In the list of fruits, there are behives. Displayed as '##'
+
+A player will select a number, and get that many items in the list. If any contain a beehive, they are out of the game.
+Last person remaining wins.
